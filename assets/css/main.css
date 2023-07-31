@@ -3535,6 +3535,10 @@ template {
     content: "\e909"
 }
 
+.devicon-dart-original-wordmark:before {
+    content: "\ea0c"
+}
+
 .devicon-d3js-plain:before {
     content: "\e90c"
 }
